@@ -17,7 +17,7 @@ The sites I have found are too lengthy, list ubscure HTML character codes, and o
 
 ## Installation
 
-(HTML Character Codes)[https://rack.pub/codes] is online as a Web app.  Simply nagivate to the URL https://rack.pub/codes.
+[HTML Character Codes](https://rack.pub/codes) is online as a Web app.  Simply nagivate to the URL https://rack.pub/codes.
 
 ## API Reference
 
