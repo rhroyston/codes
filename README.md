@@ -1,7 +1,7 @@
 # [HTML Character Codes](https://rack.pub/codes)
 ## Synopsis
 
-HTML character codes intuitively ordered with auto copy to clipboard functionality.
+HTML character codes intuitively ordered with optional auto copy to clipboard functionality.
 
 These are select, commonly used HTML character codes.  The aim of this web application is usefulness and simplicity.  
 
