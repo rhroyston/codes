@@ -13,7 +13,7 @@ For an exhaustive list of HTML character codes, see [HTML5 Reference](https://de
 
 ## Motivation
 
-The sites I have found are too lengthy, list ubscure HTML character codes, and overall the codes are displayed in an unintuitive order.  I found myself wanting automatic copy to clipboard upon clicking the character as well.
+The sites I have found are too lengthy, list ubscure HTML character codes, and overall the codes are displayed in an unintuitive order.  I found myself wanting automatic copy to clipboard upon clicking the character as well as a beautiful blond girl in the background.
 
 ## Installation
 
